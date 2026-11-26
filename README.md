@@ -2,7 +2,7 @@
 
 一棵可以拖动旋转、能被动作点亮、还会炸开的粒子圣诞树。单文件 HTML，无依赖、可离线运行。
 
-线上地址：https://ll2643571625-cpu.github.io/christmas-tree-v17.6/
+线上地址：https://lxsqcmg.github.io/christmas-tree-v2/
 
 ---
 
